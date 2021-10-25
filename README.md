@@ -9,7 +9,8 @@ The purpose of this analysis is to understand the relationship between the type 
 
 ## Results
 
-![Ride Sharing Summary]()
+![Ride Sharing Summary](https://github.com/vedikanigam/PyBer_Analysis/blob/main/Resources/ride_sharing_summary.png)
+
 
 - **Total Rides** -
 Based on the ride summary above, we can see that the percentage of total number of rides in urban cities (68.5%) far outpace the rides in rural(5.2%) and suburban cities(26.3%).
@@ -27,7 +28,9 @@ Since, the share of total fares in rural and suburban cities is higher, the aver
 The average ride per driver is also much higher in rural($55.49) and suburban cities($39.50) in comparison to urban cities($16.57).
 
 
-![Total Fare by City Type]
+![Total Fare by City Type](https://github.com/vedikanigam/PyBer_Analysis/blob/main/Resources/total_fare_by_citytype.png)
+
+
 Finally, after plotting a multi-line graph for total fares per week for the months of January to April, we can see the total fares per week are highest for urban cities followed by suburban and then rural cities. There is more volatility in total fares collected in urban and suburban cities compared to rural cities.  
 
 ## Summary 
